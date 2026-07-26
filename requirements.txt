@@ -1,0 +1,6 @@
+pillow
+pandas
+openpyxl
+matplotlib
+opencv-python
+reportlab

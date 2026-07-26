@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+database/*.db
+database/backups/
+exports/
+reports/
+assets/images/students/
+assets/logo.png
