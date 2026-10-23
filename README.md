@@ -1,5 +1,9 @@
 # Student Management System
 
+## Browser-only portfolio preview
+
+**[▶ Try the interactive Student Management dashboard preview](https://viveksahu1974.github.io/portfolio/student-manager-demo/)** — a static web recreation showing synthetic student records, filtering, sample add/delete and CSV export. **This is not the actual Tkinter + SQLite desktop application**: there is no database, login, webcam or persisted records. For the full program, use `python main.py` as documented below.
+
 A premium desktop Student Management System built with Python, Tkinter, and SQLite.
 
 ## Features
